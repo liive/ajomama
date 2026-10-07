@@ -1,0 +1,124 @@
+{
+  "restaurant": "Ajomama",
+  "checked_on": "2026-10-01",
+  "content_source": "https://neakivaizdinisvilnius.lt/laisvalaikis/ajomama/",
+  "photos": [
+    {
+      "file": "assets/photo-01.jpg",
+      "width": 1600,
+      "height": 1068,
+      "description": "Loaded potato with toppings in tray",
+      "source_url": "https://www.meniu.lt/vieta/ajomama",
+      "image_url": "https://static.meniu.lt/uploads/restaurant/photo/3/13536/871faae166e8b408fc6397a78475e44b8bdbaf41.jpeg",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-02.jpg",
+      "width": 1068,
+      "height": 1600,
+      "description": "Loaded potato in branded takeaway tray",
+      "source_url": "https://www.meniu.lt/vieta/ajomama",
+      "image_url": "https://static.meniu.lt/uploads/restaurant/photo/15/2728/c4e0a85db534c77ad1ddd8d57afec28591ec8260.jpeg",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-03.jpg",
+      "width": 1068,
+      "height": 1600,
+      "description": "Loaded potato with tomatoes in tray",
+      "source_url": "https://www.meniu.lt/vieta/ajomama",
+      "image_url": "https://static.meniu.lt/uploads/restaurant/photo/15/33627/44539ad0f72fafc156af798df0418a74f29b5878.jpeg",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-04.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Potato with smoked sausage",
+      "source_url": "https://wolt.com/en/ltu/vilnius/restaurant/ajomama",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5dbb0306cd244aa2f4e1ca41/61103d84-6467-11eb-8f8a-ce7d0daf6f57_su_ru_kyta_kiaulienos_des_rele.jpeg",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-05.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Potato with herring and beetroot",
+      "source_url": "https://wolt.com/en/ltu/vilnius/restaurant/ajomama",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5dbb0306cd244aa2f4e1ca41/2fe3d266-6467-11eb-a88d-0e25f0e760e1_su_silke.jpeg",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-06.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Potato with ricotta and tomatoes",
+      "source_url": "https://wolt.com/en/ltu/vilnius/restaurant/ajomama",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5dbb0306cd244aa2f4e1ca41/519b8070-6467-11eb-946f-0ec859e27b6c_su_rikota_ir_keptais_pomidorais.jpeg",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-07.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Vegetarian loaded potato",
+      "source_url": "https://wolt.com/en/ltu/vilnius/restaurant/ajomama",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5dbb0306cd244aa2f4e1ca41/5335b9ce-bcde-11ed-956b-3249d3edfcf1_ajomamos_vegetarin__bulv_.jpeg",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-08.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Vegan loaded potato",
+      "source_url": "https://wolt.com/en/ltu/vilnius/restaurant/ajomama",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5dbb0306cd244aa2f4e1ca41/6b2f7f6a-1a2d-11ec-ad48-eaf74afc28d5_vegani_ka__daryta_bulv_.jpeg",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-09.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Kombucha bottle",
+      "source_url": "https://wolt.com/en/ltu/vilnius/restaurant/ajomama",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5dbb0306cd244aa2f4e1ca41/1424b6c2-d396-11ec-bee7-1e6853587792_5m5a5938r1.jpeg",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-10.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Kombucha bottle",
+      "source_url": "https://wolt.com/en/ltu/vilnius/restaurant/ajomama",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5dbb0306cd244aa2f4e1ca41/88376bfa-bcdd-11ed-9f4d-7e7633798aab_5m5a1462r1.jpeg",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/potato-hero.png",
+      "width": 1122,
+      "height": 1402,
+      "description": "Original editorial baked-potato hero image generated for the Ajomama concept.",
+      "source_url": "OpenAI ImageGen",
+      "reuse": "AI-generated visual created for this website concept."
+    },
+    {
+      "file": "assets/modern-potato.png",
+      "width": 1122,
+      "height": 1402,
+      "description": "AI-generated editorial potato image requested for the story section; not a restaurant dish photograph",
+      "source": "Built-in imagegen",
+      "prompt": "Single clean golden unpeeled potato, modern editorial food photograph, pale cream stone background, soft daylight, portrait 4:5, no text or logos."
+    }
+  ],
+  "review_note": "The gallery uses potato dishes only; the hero includes an original generated stuffed-potato visual.",
+  "google_maps_status": "Direct Google Maps closure status could not be confirmed.",
+  "photo_rights": "Source photographs are authentic; no explicit republication license verified. Private design preview.",
+  "design_updated_on": "2026-10-04",
+  "gallery_layout": "Uniform 4:3 image frames in aligned responsive rows",
+  "logo": {
+    "file": "assets/ajomama-logo.jpg",
+    "source_url": "https://vpb.lrv.lt/uploads/vpb/documents/files/VPB-OB-Nr21-2022-11-10-2d.pdf",
+    "page": 43,
+    "description": "Original AJOMAMA POTATO CUISINE trademark image extracted without alteration"
+  }
+}
